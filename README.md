@@ -1,10 +1,6 @@
 #### **Project Title**  
 **Underwater Trash Detection with Object Detection**
 
-#### **Group Members**  
-Albert Chen, Peter Ogunrinde, Arun Kumar Palainsamy  
-**Course**: AAI-521 - University of San Diego  
-
 ---
 
 ### **Introduction**  
